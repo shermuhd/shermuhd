@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shermuhd
 - 👀 I’m interested in Web Frontend & Backend Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 Contact: +923131059322
 
