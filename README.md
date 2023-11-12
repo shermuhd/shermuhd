@@ -2,9 +2,9 @@
 - 👀 I’m interested in Web Frontend & Backend Development
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Web Projects
-- 📫 Contact: https://join.skype.com/invite/tlvsaffppvM6
--    Whatsapp: https://wa.me/+923131059322?text=Hello
-- () Portfolio: https://shermuhd.github.io/
+- 📫 Skype Contact: https://join.skype.com/invite/tlvsaffppvM6
+- 📫 Whatsapp Contact: https://wa.me/+923131059322?text=Hello
+- 🪢 Portfolio: https://shermuhd.github.io/
 
 <!---
 shermuhd/shermuhd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
